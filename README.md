@@ -45,5 +45,5 @@ If you encounter any issues or have questions about using the dashboard, please 
 ## Contributions
 Contributions to this project are welcome! If you have ideas for improvements or new features, feel free to [create a pull request or open an issue](link to repository) on the GitHub repository.
 
-Thank you for using our Excel Dashboard! We hope it helps you gain valuable insights from your data. If you find this project useful, please consider starring the repository on GitHub and sharing it with others. Happy analyzing!
+Thank you for using our Excel Dashboard! We hope it helps you gain valuable insights from your data. If you find this project useful, please consider starring the repository on GitHub and sharing it with others.** Happy analyzing!**
 

@@ -36,7 +36,7 @@ Open the Excel file using Microsoft Excel (version XXXX or later).
 This dashboard is designed to be customizable to suit your specific needs. You can:
 
 **Modify Data Sources:** Update the data source to reflect your dataset.
-<p align="left">**Adjust Visual Elements:** Customize charts, graphs, and tables to present data in the desired format.</p>
+**Adjust Visual Elements:** Customize charts, graphs, and tables to present data in the desired format.
 **Add New Functionality:** Extend the dashboard by adding new features or analysis tools as needed.
 
 ## Support
